@@ -1,0 +1,6 @@
+{
+  "name": "AI Study Assistant",
+  "description": "Kombinasi fitur AI PDF Summarizer untuk membuat ringkasan dokumen dan AI Quiz Generator untuk membuat kuis latihan interaktif secara instan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
